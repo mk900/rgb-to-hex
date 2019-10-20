@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7d7d7d;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0px 0px;
+}
+
+.color-rgb {
+  background: rgba(125, 125, 125, 0.5);
+  width: 200px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+#red, #green, #blue {
+  line-height: 40px;
+  padding: 7px;
+  column-width: 20px;
+}
+
+#red, #green, #blue,.rgbcolor {
+  width: 65px;
+}
